@@ -1,0 +1,9 @@
+{
+    "name": "Some random garbage",
+    "description": "Unlikely to update often.",
+    "version": "2.1.0",
+    "author": "Redacted",
+    "theme": "quickcss.css",
+    "consent": "true",
+    "license": "none"
+}
